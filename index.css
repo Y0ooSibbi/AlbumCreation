@@ -1,0 +1,20 @@
+.arial { font-family: Arial; }
+*{   
+    background: #eee;  
+    background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg");
+       
+}  
+#frm{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;  
+}  
+#btn{  
+    color: #fff;  
+    background: #000000;  
+    padding: 7px;  
+    margin-left: 70%;  
+}  
